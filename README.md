@@ -5,7 +5,7 @@ Sistema de gestión de inventario y pedidos para florería con flujo de trabajo 
 cat > README.md << 'EOF'
 # 🌹 Florería Rosales - Sistema de Gestión
 
-**Estudiante:** [Tu Nombre Completo]  
+**Estudiante:** Kimberly Peña Munive
 **Fecha:** Octubre 2025
 
 ## Descripción del Proyecto
